@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hw-components/store-func/static/css/main.8d66917f.chunk.css",
+    "main.js": "/hw-components/store-func/static/js/main.e3dfb4ea.chunk.js",
+    "main.js.map": "/hw-components/store-func/static/js/main.e3dfb4ea.chunk.js.map",
+    "runtime-main.js": "/hw-components/store-func/static/js/runtime-main.efdb57d2.js",
+    "runtime-main.js.map": "/hw-components/store-func/static/js/runtime-main.efdb57d2.js.map",
+    "static/js/2.296d78a5.chunk.js": "/hw-components/store-func/static/js/2.296d78a5.chunk.js",
+    "static/js/2.296d78a5.chunk.js.map": "/hw-components/store-func/static/js/2.296d78a5.chunk.js.map",
+    "static/js/3.b8bda4dd.chunk.js": "/hw-components/store-func/static/js/3.b8bda4dd.chunk.js",
+    "static/js/3.b8bda4dd.chunk.js.map": "/hw-components/store-func/static/js/3.b8bda4dd.chunk.js.map",
+    "index.html": "/hw-components/store-func/index.html",
+    "static/css/main.8d66917f.chunk.css.map": "/hw-components/store-func/static/css/main.8d66917f.chunk.css.map",
+    "static/js/2.296d78a5.chunk.js.LICENSE.txt": "/hw-components/store-func/static/js/2.296d78a5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hw-components/store-func/static/media/item-blue.2103f69b.jpg",
+    "static/media/logo.6ce24c58.svg": "/hw-components/store-func/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efdb57d2.js",
+    "static/js/2.296d78a5.chunk.js",
+    "static/css/main.8d66917f.chunk.css",
+    "static/js/main.e3dfb4ea.chunk.js"
+  ]
+}
