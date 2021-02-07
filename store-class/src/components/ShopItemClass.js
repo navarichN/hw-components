@@ -9,17 +9,17 @@ export class ShopItemClass extends React.Component {
       }).format(price)
     }
     return <>
-      <div class="main-content">
+      <div className="main-content">
           <h2>{this.props.item.brand}</h2>
           <h1>{this.props.item.title}</h1>
           <h3>{this.props.item.description}</h3>
-          <div class="description">
+          <div className="description">
             {this.props.item.descriptionFull}
           </div>
-          <div class="highlight-window mobile"><div class="highlight-overlay"></div></div>
-          <div class="divider"></div>
-          <div class="purchase-info">
-            <div class="price">{toCurrency(this.props.item.price, this.props.item.currency, 'en-EN')}</div>
+          <div className="highlight-window mobile"><div className="highlight-overlay"></div></div>
+          <div className="divider"></div>
+          <div className="purchase-info">
+            <div className="price">{toCurrency(this.props.item.price, this.props.item.currency, 'en-EN')}</div>
             <button>Добавить в корзину</button>
           </div>
         </div>
